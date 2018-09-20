@@ -1,2 +1,3 @@
 # MFCC-Feature-Extraction
-My simple train project about digital speech processing.
+It's my simple train project about digital speech processing. 
+# MFCC-Feature-Extraction
