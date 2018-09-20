@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1524672975 source:c:\users\bzncr\desktop\estimategenderfromspeech\train\main.cpp
+	<iostream>
+	"MFCC.h"
+	<stdint.h>
+	<stdio.h>
+
+1524944780 c:\users\bzncr\desktop\estimategenderfromspeech\train\mfcc.h
+	<stdint.h>
+	<windows.h>
+	<complex>
+
+1524430791 source:c:\users\bzncr\desktop\estimategenderfromspeech\train\mfcc.cpp
+	"MFCC.h"
+	<iostream>
+	<stdio.h>
+	<windows.h>
+	<stdint.h>
+	<fstream>
+	<math.h>
+	<complex>
+
+1522069411 c:\users\bzncr\desktop\estimategenderfromspeech\train\dr_wav.h
+	<stddef.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<stdio.h>
+	<assert.h>
+
